@@ -1,2 +1,2 @@
 Este es el curso de GIT
-Se hace necesario para poder controlar nuestros proyectos
+Es necesario para poder controlar nuestros proyectos
