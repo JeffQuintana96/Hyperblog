@@ -1,2 +1,4 @@
 Este es el curso de GIT
 Es necesario para poder controlar nuestros proyectos
+
+Hoy hablaremos de su vida
